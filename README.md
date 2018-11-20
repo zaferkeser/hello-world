@@ -1,2 +1,3 @@
 # hello-world
 initial training repository
+A newbie trying to learn code language and connect with others...
